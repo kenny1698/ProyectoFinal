@@ -1,0 +1,31 @@
+<style>
+    .table td,
+    .table th {
+        vertical-align: middle;
+    }
+</style>
+
+
+    <h2>Lista de Carrito</h2>
+    <div class="table-responsive">
+        <table class="table table-dark">
+           <tr>
+                <th>Email</th>
+                <th>Fecha</th>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Dirección</th>
+            </tr>
+            {{#if carritos.length}}
+            {{#each carritos}}
+            <tr>
+                <td>{{this.email}}</td>
+                <td>{{this.fecha}}</td>
+                <td>{{this.producto}}</td>
+                <td>{{this.cantidad}}</td>
+                <td>{{this.direccion}}</td>
+            </tr>
+            {{/each}}
+        </table>
+    </div>
+    {{/if}}

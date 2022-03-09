@@ -1,0 +1,59 @@
+[2022-02-24T08:18:34.776] [ERROR] todos - ReferenceError: transporter is not defined
+    at file:///C:/Users/u585715/Desktop/Curso/ProyectoFinal/src/routers/authRouter.js:100:27
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-02-27T13:22:24.532] [ERROR] todos - RestException [Error]: Authenticate
+    at success (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1369:30)
+    at RawTask.call (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\asap.js:40:19)
+    at flush (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  status: 401,
+  code: 20003,
+  moreInfo: 'https://www.twilio.com/docs/errors/20003',
+  details: undefined
+}
+[2022-02-27T13:34:46.694] [ERROR] todos - RestException [Error]: Authenticate
+    at success (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1369:30)
+    at RawTask.call (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\asap.js:40:19)
+    at flush (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  status: 401,
+  code: 20003,
+  moreInfo: 'https://www.twilio.com/docs/errors/20003',
+  details: undefined
+}
+[2022-02-27T14:26:28.024] [ERROR] todos - RestException [Error]: Authenticate
+    at success (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1369:30)
+    at RawTask.call (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\asap.js:40:19)
+    at flush (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  status: 401,
+  code: 20003,
+  moreInfo: 'https://www.twilio.com/docs/errors/20003',
+  details: undefined
+}
+[2022-02-27T14:33:08.305] [ERROR] todos - RestException [Error]: Authenticate
+    at success (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\twilio\lib\base\Version.js:135:15)
+    at Promise_then_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:766:44)
+    at Promise_done_fulfilled (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:835:31)
+    at Fulfilled_dispatch [as dispatch] (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1229:9)
+    at Pending_become_eachMessage_task (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\q\q.js:1369:30)
+    at RawTask.call (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\asap.js:40:19)
+    at flush (C:\Users\u585715\Desktop\Curso\ProyectoFinal\node_modules\asap\raw.js:50:29)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+  status: 401,
+  code: 20003,
+  moreInfo: 'https://www.twilio.com/docs/errors/20003',
+  details: undefined
+}
